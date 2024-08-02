@@ -1,4 +1,4 @@
-# COVID-19 Radiography Segmentation
+# Chest Radiography Segmentation
 
 ## 1. Project Overview
 This project will conduct a performance comparison between the widely used CNN-based image segmentation model, U-Net, and the relatively new Transformer-based model, SegFormer. We aim to identify the best methods for chest radiography segmentation.
